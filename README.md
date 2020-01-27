@@ -15,7 +15,7 @@ Below, we specify some use cases and explain the important steps you need to fol
 * Training a model with a private dataset
 
 ### 1 - Evaluating the pre-trained models on Da-TACOS benchmark subset
-To facilitate the benchmarking process and to present a pipeline for evaluating the pre-trained MOVE models, we have prepared `[benchmark_da-tacos.py](link)`. To use the script, you can follow the steps below:
+To facilitate the benchmarking process and to present a pipeline for evaluating the pre-trained MOVE models, we have prepared [benchmark_da-tacos.py](https://github.com/furkanyesiler/move/blob/master/benchmark_da-tacos.py). To use the script, you can follow the steps below:
 
 #### 1.1 - Requirements
 * Python 3.6+
